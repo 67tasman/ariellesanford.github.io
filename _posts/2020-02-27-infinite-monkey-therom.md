@@ -26,6 +26,6 @@ Reference: [Guttmacher Institute](https://data.guttmacher.org/states)
 
 I rated all of the states by percentage of women aged 15-44 living in a county without an abortion provider. I then compared these rankings with the property crime rates from 1980 to 2020. We see that states with better rankings have a more siginificant decrease in property crime rates.
 
-<img src="../crime_rates.jpg">
+<img src="../access_violent.jpg">
 Reference: [Guttmacher Institute](https://data.guttmacher.org/states)
 I compared the abortion provider accessability rankings with the violent crime rates from 1980 to 2020. We see that states with better rankings have a more siginificant decrease in violent crime rates.
