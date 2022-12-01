@@ -12,7 +12,9 @@ Documented abortions rose sharply after Roe, with over 1.6 million just seven ye
 <img src="../crime_rates.jpg">
 Reference: [FBI Crime Data Explorer](https://crime-data-explorer.app.cloud.gov/pages/explorer/crime/crime-trend)
 
-Pictured above are crime rates in the US from 1985 to 2020. We start to observe a decline in crime around 1991, which is 18 years after the legalization of abortion. This is when children, of mothers who had first access to legal abortion, are at an age where crime rates peak. This leads us to wonder, are children born to parents with the right to an abortion, less likely to commit crimes? The following slides demonstate why this relationship may be more than a coincidence. 
+Pictured above are crime rates in the US from 1985 to 2020. 
+In 2001, researchers John Donohue and Steven Levitt pondered the question, why is there this huge fall in crime? They considered all the usual suspects, including changes in policing, increased imprisonment and the decline in the cocaine trade, but found these factors couldn’t explain the bulk of the crime decline. They finally had the idea that legalized abortion in the 1970s may have had an impact. 
+We start to observe a decline in crime around 1991, which is 18 years after the legalization of abortion. This is when children, of mothers who had first access to legal abortion, are at an age where crime rates peak. This leads us to wonder, are children born to parents with the right to an abortion, less likely to commit crimes? The following slides demonstate why this relationship may be more than a coincidence. 
 
 
 <img src="../property_crime.jpeg">
@@ -37,8 +39,12 @@ I compared the abortion provider accessability rankings with the violent crime r
 
 
 
+
+
 Ultimately, its difficult to deny that the data indicates some decline in crime associated with the 1973 court case known as Roe v. Wade. 
+
 In fact, Donohue and Levitt’s 2019 study suggests that abortion explains 80 to 90 percent of all decline in crime over the last 30 years, due to its compounding impact over time. The idea also makes intuitive sense- if children are unwanted they are less likely to be born into loving and supportive households, which may increase their likelihood of being involved in crimes. 
 
 But this is not intended to be a reason to change your beliefs regarding legalized abortion. Instead it is a way to realize the factors that impact crime the most. It seems that if ones goal reducing crime, they should figure out how to make children feel wanted. This is not necessarily only by means of legalized abortion. One could consider, training for parents, better early education, or maybe minimum incomes. The point is, these studies lead us to ask the right questions, and shift our focus to a more productive discussion when it comes to reducing crime.
+
 Reference: [National Bureau of Economic Research](https://www.nber.org/system/files/working_papers/w25863/w25863.pdf)
