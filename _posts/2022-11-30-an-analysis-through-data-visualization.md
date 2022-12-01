@@ -36,8 +36,10 @@ I rated all of the states by percentage of women aged 15-44 living in a county w
 Reference: [Guttmacher Institute](https://data.guttmacher.org/states)
 
 I compared the abortion provider accessability rankings with the violent crime rates from 1980 to 2020. We see that states with better rankings have a more siginificant decrease in violent crime rates.
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 Ultimately, it's difficult to deny that the data indicates some decline in crime associated with the 1973 court case known as Roe v. Wade. 
 
 In fact, Donohue and Levitt’s 2019 study suggests that abortion explains 80 to 90 percent of all decline in crime over the last 30 years, due to its compounding impact over time. The idea also makes intuitive sense- if children are unwanted they are less likely to be born into loving and supportive households, which may increase their likelihood of being involved in crimes. 
