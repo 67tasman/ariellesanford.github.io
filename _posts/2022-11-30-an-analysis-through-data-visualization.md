@@ -2,11 +2,7 @@
 layout: post
 title: An Analysis Through Data Visualization
 ---
-Roe v. Wade was a 1973 Supreme Court case that focused on whether abortion can be legalized nationally. For early pregnancy, the court decided that a mother’s interest outweighs any other decision about prenatal life. Once a fetus is able to survive outside of the womb, however, after 24-28 weeks of conception, the SC ruled that state decisions will outweigh the mother’s personal interest. Ultimately, the case declared that abortion is allowed until a fetus can live outside of the womb, which is past the point of viability. 
-
-Prior to this, five individual states all had deemed laws that banned abortion to be unconstitutional as of 1970, and the Sumpreme Court’s decision three years later extended this legalization to the rest of the country. 
-
-Documented abortions rose sharply after Roe, with over 1.6 million just seven years after - which equates to about 1 abortion for every 2 live births - and the cost of an abortion dropped considerably after its legalization. For any illegal abortions before Roe, the cost of travel, and any risky procedures was also reduced after this legalization.
+Roe v. Wade was a 1973 Supreme Court case that focused on whether abortion can be legalized nationally. For early pregnancy, the court decided that a mother’s interest outweighs any other decision about prenatal life. Once a fetus is able to survive outside of the womb, however, after 24-28 weeks of conception, the SC ruled that state decisions will outweigh the mother’s personal interest. Ultimately, the case declared that abortion is allowed until a fetus can live outside of the womb, which is past the point of viability. Prior to this, five individual states all had deemed laws that banned abortion to be unconstitutional as of 1970, and the Sumpreme Court’s decision three years later extended this legalization to the rest of the country. Documented abortions rose sharply after Roe, with over 1.6 million just seven years after - which equates to about 1 abortion for every 2 live births - and the cost of an abortion dropped considerably after its legalization. For any illegal abortions before Roe, the cost of travel, and any risky procedures was also reduced after this legalization.
 
 
 <img src="../crime_rates.jpg">
