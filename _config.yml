@@ -1,9 +1,9 @@
 title: The Impact of Roe v. Wade on Crime
-author: pro-panda
-subtitle: The life of a frustrated engineer
+author: Arielle Sanford
+subtitle: 
 
 url: "https://ariellesanford.github.io"
-baseurl: "/parchment"
+baseurl: 
 
 footer_only_homepage: true
 footer_url: #"https://github.com/rahul-bothra"
@@ -18,7 +18,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+ #- name: "About"
+  # link: "about"
+ #- name: "Resume"
+  # absolute-link: "https://rahul-bothra.github.io/CV.pdf"
