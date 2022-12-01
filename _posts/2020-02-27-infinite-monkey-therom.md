@@ -1,18 +1,31 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
-subtitle: as crazy as it sounds...
-tags: [math, tech]
+title: An Analysis Through Data Visualization
+subtitle: 
+tags: 
 ---
 
 <img src="../crime_rates.jpg">
+Reference: [FBI Crime Data Explorer](https://crime-data-explorer.app.cloud.gov/pages/explorer/crime/crime-trend)
 
-The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
+Pictured above are crime rates in the US from 1985 to 2020. We start to observe a decline in crime around 1991, which is 18 years after the legalization of abortion. This is when children, of mothers who had first access to legal abortion, are at an age where crime rates peak. This leads us to wonder, are children born to parents with the right to an abortion, less likely to commit crimes? The following slides demonstate why this relationship may be more than a coincidence. 
 
-In fact, the monkey would almost surely type every possible finite text an infinite number of times. However, the probability that monkeys filling the observable universe would type a complete work such as Shakespeare's Hamlet is so tiny that the chance of it occurring during a period of time hundreds of thousands of orders of magnitude longer than the age of the universe is extremely low (but technically not zero).
 
-In this context, "almost surely" is a mathematical term with a precise meaning, and the "monkey" is not an actual monkey, but a metaphor for an abstract device that produces an endless random sequence of letters and symbols.
+<img src="../property_crime.jpeg">
+Reference: [FBI Crime Data Explorer](https://crime-data-explorer.app.cloud.gov/pages/explorer/crime/property-crime)
 
-In 2003, lecturers and students from the University of Plymouth MediaLab Arts course used a £2,000 grant from the Arts Council to study the literary output of real monkeys. They left a computer keyboard in the enclosure of six Celebes crested macaques in Paignton Zoo in Devon in England for a month, with a radio link to broadcast the results on a website. Not only did the monkeys produce nothing but five total pages largely consisting of the letter S, the lead male began bashing the keyboard with a stone, and the monkeys followed by soiling it.
+Five states (Alaska, California, Hawaii, New York, and Washington) legalized abortion three years prior to Roe v. Wade. We observe property crime falling 3 years earlier in these states.
 
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+<img src="../crime_age.jpg">
+Reference: [OJJDP](https://www.ojjdp.gov/ojstatbb/crime/ucr_trend.asp?table_in=1&selOffenses=1&rdoGroups=1&rdoDataType=2)
+
+During the mid 90s we see a slight persisting decrease in the percent of crime commited by ages 0-20. In 2010 we see a steeper decrease which also includes 21-24 age group.
+
+<img src="../access_property.jpg">
+Reference: [Guttmacher Institute](https://data.guttmacher.org/states)
+
+I rated all of the states by percentage of women aged 15-44 living in a county without an abortion provider. I then compared these rankings with the property crime rates from 1980 to 2020. We see that states with better rankings have a more siginificant decrease in property crime rates.
+
+<img src="../crime_rates.jpg">
+Reference: [Guttmacher Institute](https://data.guttmacher.org/states)
+I compared the abortion provider accessability rankings with the violent crime rates from 1980 to 2020. We see that states with better rankings have a more siginificant decrease in violent crime rates.
