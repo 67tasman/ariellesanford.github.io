@@ -6,8 +6,8 @@ url: "https://ariellesanford.github.io"
 baseurl: 
 
 footer_only_homepage: true
-footer_url: https://www.linkedin.com/in/arielle-sanford-04ab50165/
-footer_text: By Arielle Sanford
+footer_url: "https://www.linkedin.com/in/arielle-sanford-04ab50165/"
+footer_text: "By Arielle Sanford"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
